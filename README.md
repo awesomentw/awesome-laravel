@@ -1,6 +1,4 @@
-# Hi there! Welcome in awesome-laravel.com
-
-Awesome Laravel is Collection of projects, packages, libraries, websites made with Laravel.
+## Hi there! Awesome-Laravel.com is Collection of projects, packages, libraries, websites made with Laravel.
 
 What you can do here ?
 
