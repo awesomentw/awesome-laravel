@@ -9,7 +9,7 @@ What you can do here ?
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
-Inspired by [https://github.com/chiraggude/awesome-laravel/blob/master/README.md](https://github.com/chiraggude/awesome-laravel/blob/master/README.md)
+Inspired by [https://github.com/chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel)
 
 ## Table of Contents
 
